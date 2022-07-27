@@ -1,1 +1,2 @@
-This is the start of my webdev journey
+This is the start of my webdev journey.
+This is the steps I need to be a developer.
